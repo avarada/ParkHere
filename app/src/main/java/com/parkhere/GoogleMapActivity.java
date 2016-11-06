@@ -40,7 +40,7 @@ public class GoogleMapActivity extends AppCompatActivity implements OnMapReadyCa
 
     public void onMapReady(GoogleMap map){
         LatLng sydney = new LatLng(latitude,longitude);
-        map.moveCamera(CameraUpdateFactory.newLatLngZoom(sydney, 13));
+        map.moveCamera(CameraUpdateFactory.newLatLngZoom(sydney, 17));
         map.addMarker( new MarkerOptions()
                 .title(title)
                 .snippet(address)
