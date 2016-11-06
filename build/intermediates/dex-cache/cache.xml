@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/avarada/Downloads/MB2016/ParkHere/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics-impl/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="50e35ae101a679c4c8ef3dda075b1df9d5d947d9">
+        <dex dex="/home/avarada/Downloads/MB2016/ParkHere/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-impl-9.8.0_9232e4176d00e04765ed0d3139f6300b2b3b627e/classes.dex" />
+    </item>
+    <item
+        jar="/home/avarada/Downloads/MB2016/ParkHere/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-common/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="4438b1a7848a7c571122ba618aa1304514aabee6">
+        <dex dex="/home/avarada/Downloads/MB2016/ParkHere/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-common-9.8.0_952deba89f9dbadb0fbc16df9d04b2cea7204bed/classes.dex" />
+    </item>
+    <item
+        jar="/home/avarada/Downloads/MB2016/ParkHere/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="/home/avarada/Downloads/MB2016/ParkHere/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.0.0_4ad8660efa6af6a0df9bd7d5f2e709f4449c28df/classes.dex" />
+    </item>
+    <item
+        jar="/home/avarada/Downloads/MB2016/ParkHere/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="16afe57c1d7f8165d107c7806ce7b0c71de87159">
+        <dex dex="/home/avarada/Downloads/MB2016/ParkHere/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-9.8.0_4e833d3f5861f2ad085d5420dc401666ec21708d/classes.dex" />
+    </item>
+    <item
+        jar="/home/avarada/Downloads/MB2016/ParkHere/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="03df48d3713661d66ad024b1e406259a4c26fcac">
+        <dex dex="/home/avarada/Downloads/MB2016/ParkHere/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-9.8.0_26f7a85a4b50655f188a6d9674847f7b36e6f4cc/classes.dex" />
+    </item>
+    <item
+        jar="/home/avarada/Downloads/MB2016/ParkHere/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="a972970c8beddb69c198f61f3fc55f0606a7dfe3">
+        <dex dex="/home/avarada/Downloads/MB2016/ParkHere/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-9.8.0_479326670ac508d2b97bf9d2ce9f494a408e9dee/classes.dex" />
+    </item>
+    <item
+        jar="/home/avarada/Downloads/MB2016/ParkHere/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/home/avarada/Downloads/MB2016/ParkHere/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.0.0_a6f4b7fe78831672794aee63da41391d4f234a69/classes.dex" />
+    </item>
+    <item
+        jar="/home/avarada/Downloads/MB2016/ParkHere/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="a7a04d6b7c01e569a285fa627cf64f5b05295906">
+        <dex dex="/home/avarada/Downloads/MB2016/ParkHere/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-fitness-9.8.0_9aa0b87a177620ae233d954625f257c0ae1a8304/classes.dex" />
+    </item>
+    <item
+        jar="/home/avarada/Downloads/MB2016/ParkHere/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="/home/avarada/Downloads/MB2016/ParkHere/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.0.0_71ee70a4116c92a59b7138092453ed7db348dbb2/classes.dex" />
+    </item>
+    <item
+        jar="/home/avarada/Downloads/MB2016/ParkHere/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="910c013c511f752c4bbe24c5f492f669f4a3ccc0">
+        <dex dex="/home/avarada/Downloads/MB2016/ParkHere/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wallet-9.8.0_4b695683ebf854122232ccd07359b85dc05905f4/classes.dex" />
+    </item>
+    <item
+        jar="/home/avarada/Downloads/MB2016/ParkHere/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="a1ed98e01bd58976d80c062fd0ea2968a1ff68a1">
+        <dex dex="/home/avarada/Downloads/MB2016/ParkHere/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-base-9.8.0_508f7484723a9a7b326c0547dbd1c23453356734/classes.dex" />
+    </item>
+    <item
+        jar="/home/avarada/Downloads/MB2016/ParkHere/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-clearcut/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="ee5304fd374e0b4ebf6b42d4037fbfb2c5336511">
+        <dex dex="/home/avarada/Downloads/MB2016/ParkHere/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-clearcut-9.8.0_d7f03620dddfa14812dfcace9db1b5702a55b62b/classes.dex" />
+    </item>
+    <item
+        jar="/home/avarada/Downloads/MB2016/ParkHere/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-module/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="3f8f779a22cbb4c4d0759467a4f1011bb5252970">
+        <dex dex="/home/avarada/Downloads/MB2016/ParkHere/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-module-9.8.0_46d357b55d6eabb823eaa507ccda9a72ae41772e/classes.dex" />
+    </item>
+    <item
+        jar="/home/avarada/Downloads/MB2016/ParkHere/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gass/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="363a20f1d25336e827dd24020f2ecdc42d62638f">
+        <dex dex="/home/avarada/Downloads/MB2016/ParkHere/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gass-9.8.0_70f86be234bace4f1574549e27ae2c09cf83c672/classes.dex" />
+    </item>
+    <item
+        jar="/home/avarada/Downloads/MB2016/ParkHere/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="f2d240dd085626f03f759c41d628a0c8b63e491f">
+        <dex dex="/home/avarada/Downloads/MB2016/ParkHere/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-9.8.0_a4a59e1cbb243621376db1814d06a0018c7ed995/classes.dex" />
+    </item>
+    <item
+        jar="/home/avarada/Downloads/MB2016/ParkHere/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-api/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="266570862e5792ef3c51143a8b8593cf54fac68d">
+        <dex dex="/home/avarada/Downloads/MB2016/ParkHere/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-api-9.8.0_3d3d478f7eb42401b133a1d6a35792d92a6215c6/classes.dex" />
+    </item>
+    <item
+        jar="/home/avarada/Downloads/MB2016/ParkHere/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="6b6f292b8b951dcf2ecf2b20853e3eabc7d65c48">
+        <dex dex="/home/avarada/Downloads/MB2016/ParkHere/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-9.8.0_deb22249c90dc57aff6cea0dbf12338ed7f1ca6d/classes.dex" />
+    </item>
+    <item
+        jar="/home/avarada/Downloads/MB2016/ParkHere/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="15e59454416c6341bd3ed2533b585cd340682dd1">
+        <dex dex="/home/avarada/Downloads/MB2016/ParkHere/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-9.8.0_94b73c5d7d1f267220ff8649a07f7b600d38f755/classes.dex" />
+    </item>
+    <item
+        jar="/home/avarada/Downloads/MB2016/ParkHere/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="fbb3885c40e431cd2b0dc69c0cab2bf6d5da7b43">
+        <dex dex="/home/avarada/Downloads/MB2016/ParkHere/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-games-9.8.0_206947d3ff4ba9c867679817676d1bbe6f9ef781/classes.dex" />
+    </item>
+    <item
+        jar="/home/avarada/Downloads/MB2016/ParkHere/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="190a642ba16d1421296a4d794606279b80039c59">
+        <dex dex="/home/avarada/Downloads/MB2016/ParkHere/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-9.8.0_bd66e9c1389cb01110b02a1db8773b2234a5bd79/classes.dex" />
+    </item>
+    <item
+        jar="/home/avarada/Downloads/MB2016/ParkHere/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-common/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="ec9104b53aee77dfcfd2fe1c4add23ff7c4df55f">
+        <dex dex="/home/avarada/Downloads/MB2016/ParkHere/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-common-9.8.0_07fc915222751d88df4fe20609f6118fa1a36093/classes.dex" />
+    </item>
+    <item
+        jar="/home/avarada/Downloads/MB2016/ParkHere/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="9dae58326f6f6a515022468cce56dd04ec3b9fdb">
+        <dex dex="/home/avarada/Downloads/MB2016/ParkHere/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gcm-9.8.0_e632b0a642308c0be8ae4f5eae0a8693031a6ad0/classes.dex" />
+    </item>
+    <item
+        jar="/home/avarada/Downloads/MB2016/ParkHere/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="/home/avarada/Downloads/MB2016/ParkHere/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-9.8.0_5bf9307ef6592ba7b0b67f1130717a2e4e9a03de/classes.dex" />
+    </item>
+    <item
+        jar="/home/avarada/Downloads/MB2016/ParkHere/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="679251204de40ace98776a6f4e3a649c27e3d89f">
+        <dex dex="/home/avarada/Downloads/MB2016/ParkHere/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-places-9.8.0_28cf3c089a801cc1889b3078f8949c52b3a7b599/classes.dex" />
+    </item>
+    <item
+        jar="/home/avarada/Downloads/MB2016/ParkHere/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="9ff04cc3470178a44512624036751a803418c2ca">
+        <dex dex="/home/avarada/Downloads/MB2016/ParkHere/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-9.8.0_ff1c0f3a54a1330ac64d6846627c80678f5b8079/classes.dex" />
+    </item>
+    <item
+        jar="/home/avarada/Downloads/MB2016/ParkHere/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="/home/avarada/Downloads/MB2016/ParkHere/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0_21ceb1a02cf8aed06fea00e7d645ce19fb8d785f/classes.dex" />
+    </item>
+    <item
+        jar="/home/avarada/Downloads/MB2016/ParkHere/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-awareness/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="a2537b11ae24b42172d34e2a613fc0b903c56158">
+        <dex dex="/home/avarada/Downloads/MB2016/ParkHere/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-awareness-9.8.0_4da3852495c4454619b8ef44c9a5fbaf66abeb8e/classes.dex" />
+    </item>
+    <item
+        jar="/home/avarada/Downloads/MB2016/ParkHere/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="1b658ba069c78abc7a7d45eb2e1b09a0d88d97fa">
+        <dex dex="/home/avarada/Downloads/MB2016/ParkHere/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_1b2beb9658aa8e17db92c5829ac445b57b0dd9c6/classes.dex" />
+    </item>
+    <item
+        jar="/home/avarada/Downloads/MB2016/ParkHere/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="/home/avarada/Downloads/MB2016/ParkHere/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-9.8.0_e8170c9765a4e6088213d0d6de147e95f55ce0f5/classes.dex" />
+    </item>
+    <item
+        jar="/home/avarada/Downloads/MB2016/ParkHere/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="055eed08c9cff50cac0db69c74c4d9ff7aef3d84">
+        <dex dex="/home/avarada/Downloads/MB2016/ParkHere/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-framework-9.8.0_c5ea646b7b7d3a76f508c00f50b9d4da12e92c35/classes.dex" />
+    </item>
+    <item
+        jar="/home/avarada/Downloads/MB2016/ParkHere/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="20a3c4e355150c15c13dd58045d43ad0c717d916">
+        <dex dex="/home/avarada/Downloads/MB2016/ParkHere/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-safetynet-9.8.0_081856e506616ac525de87db9b4ef896d29d42e6/classes.dex" />
+    </item>
+    <item
+        jar="/home/avarada/Downloads/MB2016/ParkHere/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="e3234cd25e23069abd48ecd2117bc0e8011bf45a">
+        <dex dex="/home/avarada/Downloads/MB2016/ParkHere/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appindexing-9.8.0_1e845937e796a2aaf6709ec4bec4dc7ec0ad6f12/classes.dex" />
+    </item>
+    <item
+        jar="/home/avarada/Downloads/MB2016/ParkHere/app/build/intermediates/exploded-aar/com.android.support/palette-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="/home/avarada/Downloads/MB2016/ParkHere/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-palette-v7-24.0.0_2e58fa63cb406ffdb85a4ed1e666c9bff39d7798/classes.dex" />
+    </item>
+    <item
+        jar="/home/avarada/Downloads/MB2016/ParkHere/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="3daa7a9c9009fd386872a84c177a76979bdcafd6">
+        <dex dex="/home/avarada/Downloads/MB2016/ParkHere/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-plus-9.8.0_427abb921071301b40edb9b20c7d4a2601e28ad1/classes.dex" />
+    </item>
+    <item
+        jar="/home/avarada/Downloads/MB2016/ParkHere/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="c81df6bd515398ebe45089b0b16c55752a131f6a">
+        <dex dex="/home/avarada/Downloads/MB2016/ParkHere/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-nearby-9.8.0_51b0f161949d27662f013f287a1e5affa59b1cf6/classes.dex" />
+    </item>
+    <item
+        jar="/home/avarada/Downloads/MB2016/ParkHere/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="5f47ede9561595584dca71104baa0fecb36dda87">
+        <dex dex="/home/avarada/Downloads/MB2016/ParkHere/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-connection-9.8.0_fd582c8e0e55563d1d652aa80ebf80968eee46b8/classes.dex" />
+    </item>
+    <item
+        jar="/home/avarada/Downloads/MB2016/ParkHere/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="a30aea7df545072ad3c06f56b2efc13e67222140">
+        <dex dex="/home/avarada/Downloads/MB2016/ParkHere/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-vision-9.8.0_2fbb74beba37ee209480843ff97305b417f0c43d/classes.dex" />
+    </item>
+    <item
+        jar="/home/avarada/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/24.0.0/2943c74db6d4346ab8c6531adac91fa05c137c40/support-annotations-24.0.0.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="/home/avarada/Downloads/MB2016/ParkHere/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.0.0_65fd4c6899bc5138b6b477829ca1bb7da952147f/classes.dex" />
+    </item>
+    <item
+        jar="/home/avarada/Downloads/MB2016/ParkHere/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="/home/avarada/Downloads/MB2016/ParkHere/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-mediarouter-v7-24.0.0_384b358fe0b3f6c47dbfc75c1924cb470d9b52c6/classes.dex" />
+    </item>
+    <item
+        jar="/home/avarada/Downloads/MB2016/ParkHere/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="cef85cfc7df40e29fbea58844dd4c1e7d0b15542">
+        <dex dex="/home/avarada/Downloads/MB2016/ParkHere/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-identity-9.8.0_720dcdb355d340d8f33be89654439cc20bf46423/classes.dex" />
+    </item>
+    <item
+        jar="/home/avarada/Downloads/MB2016/ParkHere/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="/home/avarada/Downloads/MB2016/ParkHere/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.0.0_f6d8c2999f3c3519101c75ee45a5b8f553b76293/classes.dex" />
+    </item>
+    <item
+        jar="/home/avarada/Downloads/MB2016/ParkHere/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="0b8e087da59c0b062c33f49a335e59f907086da2">
+        <dex dex="/home/avarada/Downloads/MB2016/ParkHere/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wearable-9.8.0_4277d7a7dac53edb010495d025f4fba19cbdee5f/classes.dex" />
+    </item>
+    <item
+        jar="/home/avarada/Downloads/MB2016/ParkHere/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="74ac7cbcf0de4a88e59612dc3a9e3f9e71acb4ca">
+        <dex dex="/home/avarada/Downloads/MB2016/ParkHere/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-9.8.0_42e8b7f0096a7b97782beed91bf873071d7bd531/classes.dex" />
+    </item>
+    <item
+        jar="/home/avarada/Downloads/MB2016/ParkHere/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="85299bf1924dde0200109a58033c5ef84ecb6991">
+        <dex dex="/home/avarada/Downloads/MB2016/ParkHere/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-iid-9.8.0_e3e9a1542be40fe1bc6cf6db618b422f4b06c6e8/classes.dex" />
+    </item>
+    <item
+        jar="/home/avarada/Downloads/MB2016/ParkHere/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="0b53c4b90654b67ee3892a8e2e7b819c083ab7a6">
+        <dex dex="/home/avarada/Downloads/MB2016/ParkHere/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-drive-9.8.0_18708021889558ea9ddd7820bcc3454440e9eef2/classes.dex" />
+    </item>
+    <item
+        jar="/home/avarada/Downloads/MB2016/ParkHere/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="c61641e333fa88da21758bab8cc28ee16604b05f">
+        <dex dex="/home/avarada/Downloads/MB2016/ParkHere/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-9.8.0_028d217035d47c5bd4796dd673d587affeba4bfc/classes.dex" />
+    </item>
+    <item
+        jar="/home/avarada/Downloads/MB2016/ParkHere/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="e9b2cfdfd59b03643f1e240668275378b96615a8">
+        <dex dex="/home/avarada/Downloads/MB2016/ParkHere/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-lite-9.8.0_0440d47806428339a7ba02aa2d06e93d559d0399/classes.dex" />
+    </item>
+    <item
+        jar="/home/avarada/Downloads/MB2016/ParkHere/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-instantapps/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="00d358528c5a8731a6e19bca910cbb3fd755ee31">
+        <dex dex="/home/avarada/Downloads/MB2016/ParkHere/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-instantapps-9.8.0_7fa3e2f910bcb3042eebb6aa2e39d49f3552f9c3/classes.dex" />
+    </item>
+    <item
+        jar="/home/avarada/Downloads/MB2016/ParkHere/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="5ffe8867f51cfc726e9fb21db1e5b6962ebf25a0">
+        <dex dex="/home/avarada/Downloads/MB2016/ParkHere/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-messaging-9.8.0_785c01be7d991e22fcaffd6bc0f6caa905da2316/classes.dex" />
+    </item>
+    <item
+        jar="/home/avarada/Downloads/MB2016/ParkHere/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="04bbbddf868aa02dd33f9e90d8f5d908c360f638">
+        <dex dex="/home/avarada/Downloads/MB2016/ParkHere/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-location-9.8.0_814692ed5b89cdedb55ae6500fa14f3b1f060536/classes.dex" />
+    </item>
+    <item
+        jar="/home/avarada/Downloads/MB2016/ParkHere/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="1c6ab077932bdfd3df56a42eddb3063f9fd4fe92">
+        <dex dex="/home/avarada/Downloads/MB2016/ParkHere/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_d284aa70e5309829b3fb238b538b85bf1f87fc40/classes.dex" />
+    </item>
+    <item
+        jar="/home/avarada/Downloads/MB2016/ParkHere/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="7fd91ec2730fdaa82906aad32a3f3d3e574bae56">
+        <dex dex="/home/avarada/Downloads/MB2016/ParkHere/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-9.8.0_518c1ffb7cef143a9af26c051f47ebeb8252437a/classes.dex" />
+    </item>
+    <item
+        jar="/home/avarada/Downloads/MB2016/ParkHere/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="e56f31b23ddb067f95f01255295167db7c798612">
+        <dex dex="/home/avarada/Downloads/MB2016/ParkHere/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appinvite-9.8.0_0b47080f2d8e6005c5eaaa157c0460087a0c8572/classes.dex" />
+    </item>
+    <item
+        jar="/home/avarada/Downloads/MB2016/ParkHere/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="122ec9237acd8a57d974b9d529987f1ee6ca5aea">
+        <dex dex="/home/avarada/Downloads/MB2016/ParkHere/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-maps-9.8.0_1d397018fd046402a50646aa537902df676ce892/classes.dex" />
+    </item>
+    <item
+        jar="/home/avarada/Downloads/MB2016/ParkHere/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
+        <dex dex="/home/avarada/Downloads/MB2016/ParkHere/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-9.8.0_43f0e75c0c6d2319c98bd5868d04517a5169027d/classes.dex" />
+    </item>
+    <item
+        jar="/home/avarada/Downloads/MB2016/ParkHere/app/build/intermediates/exploded-aar/com.google.firebase/firebase-config/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="289cad663c288ce965463cb9ece8b35cc7de0fac">
+        <dex dex="/home/avarada/Downloads/MB2016/ParkHere/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-config-9.8.0_6663e1cd823410f14ee7c670566af52de73be029/classes.dex" />
+    </item>
+    <item
+        jar="/home/avarada/Downloads/MB2016/ParkHere/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="ca851be26ff89f5b32cc222cee98139fb3fac830">
+        <dex dex="/home/avarada/Downloads/MB2016/ParkHere/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-9.8.0_5937ef93f684839da748b2bda28d5c10ab60633d/classes.dex" />
+    </item>
+    <item
+        jar="/home/avarada/Downloads/MB2016/ParkHere/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="2d3035050a075484cbf2e33f1ce1f779bae4d451">
+        <dex dex="/home/avarada/Downloads/MB2016/ParkHere/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-panorama-9.8.0_6143ec2e81faabb2bd5af78d6f8c4638e124f072/classes.dex" />
+    </item>
+    <item
+        jar="/home/avarada/Downloads/MB2016/ParkHere/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="/home/avarada/Downloads/MB2016/ParkHere/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0_84b47a791a135d7d792b083a06b55d3a374e59e6/classes.dex" />
+    </item>
+    <item
+        jar="/home/avarada/Downloads/MB2016/ParkHere/app/build/intermediates/exploded-aar/com.google.firebase/firebase-crash/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="b4671be3d1288bf4e5f527cd33e42909fbe4ecc6">
+        <dex dex="/home/avarada/Downloads/MB2016/ParkHere/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-crash-9.8.0_acefbb6bb273f722bd953afe3355aaac74b07077/classes.dex" />
+    </item>
+
+</items>
